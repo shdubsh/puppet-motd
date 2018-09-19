@@ -1,0 +1,4 @@
+MOTD
+===
+
+Manages MOTD scripts.
